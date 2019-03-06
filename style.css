@@ -1,0 +1,27 @@
+body {
+	background-color:#298693;
+}
+center p {
+	font-family: 'Roboto Condensed', monospace, sans-serif;
+	color: white;
+	font-size: 2em;
+	padding-bottom: 0px;
+	line-height:.5;
+	text-shadow: 2px 2px 4px #000000;
+}
+.subtitle {
+	font-size: .9em;
+	padding-top: 0px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+.content {
+	
+}
