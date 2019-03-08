@@ -29,7 +29,9 @@ center p {
 }
 button {
 	font-family: 'Roboto Condensed', monospace, sans-serif;
-	background-color:white;
+	background-color: #298693;
+	color: white;
 	padding-top: 3px;
-	font-size: 2em;
+	font-size: 1.2em;
+	box-shadow: 2px 2px 4px #000000;
 }
