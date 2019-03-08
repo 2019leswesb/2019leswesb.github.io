@@ -27,3 +27,9 @@ center p {
 .content {
 	
 }
+button {
+	font-family: 'Roboto Condensed', monospace, sans-serif;
+	background-color:white;
+	padding-top: 3px;
+	font-size: 2em;
+}
